@@ -1,0 +1,86 @@
+h1{
+  text-align: center;
+  font-size: 80px;
+  font-family: Roboto-Thin;
+}
+
+h2{
+
+  font-family: Roboto-Thin;
+  color: grey;
+
+}
+
+.spacer{
+  margin-top: 100px;
+}
+
+.spacerBIG{
+  margin-top: 500px;
+}
+
+.spacer_small{
+  margin-top: 30px;
+}
+
+.link:hover {
+  background:#c3f5f2;
+  text-decoration: none;
+  font-family: Roboto-Thin;
+
+}
+
+.glyphicon {
+  vertical-align: middle;
+
+
+}
+
+.link{
+  font-size: 18px;
+  font-family: Roboto-Thin;
+
+}
+
+a {
+  color: black;
+  font-size: 14px;
+  font-family: Roboto-Thin;
+  text-decoration: none;
+
+
+}
+
+
+
+
+p {
+  color: black;
+  font-size: 14px;
+  font-family: Roboto-Thin;
+
+}
+
+.bildDiv {
+width:1000;
+height:500px;
+overflow:hidden;
+}
+
+.link:hover {
+  background:#c3f5f2;
+  text-decoration: none;
+  font-family: Roboto-Thin;
+
+}
+
+.glyphicon-menu-down {
+  min-height: 260px;
+line-height: 100px;
+font-size: 35px;
+width: 1em;
+display: block;
+margin: -0.5em auto 0px;
+color: grey;
+-webkit-font-smoothing: antialiased;
+}
